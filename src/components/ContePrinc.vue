@@ -3,7 +3,7 @@ export default {};
 </script>
 <template>
   <article class="block">
-    <p>Conteudo</p>
+    <p>This is a game brother HAHAHAHA</p>
   </article>
 </template>
 <style></style>

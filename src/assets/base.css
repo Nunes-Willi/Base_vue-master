@@ -19,27 +19,36 @@ body {
   border: 2px solid black;
 }
 
+h1 {
+  display: flex;
+  
+}
+
 #header {
   grid-area: header;
-  color: greenyellow;
+  color: blue;
 }
 #content {
   grid-area: content;
   display: flex;
   flex-wrap: wrap;
-  color: greenyellow;
+  color:  blue;
 }
 #footer {
   grid-area: footer;
-  color: greenyellow;
+  color:  blue;
 }
 #sidenav {
   grid-area: sidenav;
-  color: greenyellow;
+  color:  blue;
 }
 
 ul {
-  background-color:rosybrown;
+  background-color:greenyellow;
+}
+
+.erro{
+  color: red;
 }
 
 .block {
@@ -49,6 +58,6 @@ ul {
   border-radius: 15px;
   padding: 20px;
   margin: 10px;
-  background-color: rosybrown;
+  background-color: greenyellow;
 }
 
