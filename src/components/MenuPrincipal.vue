@@ -5,22 +5,17 @@ export default { ContePrinc, components: { ContePrinc } };
 <template>
   <main id="content">
 
-    <ContePrinc 
-    class="erro"
-    nome="Alunos"/>
+    <ContePrinc />
+    
     <ContePrinc />
 
-    <ContePrinc 
-    class="erro"
-    nome="Alunos"/>
+    <ContePrinc />
 
     <ContePrinc />
 
     <ContePrinc />
 
-    <ContePrinc 
-    class="erro"
-    nome="Alunos"/>
+    <ContePrinc />
   </main>
 </template>
 <style></style>

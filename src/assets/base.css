@@ -26,29 +26,25 @@ h1 {
 
 #header {
   grid-area: header;
-  color: blue;
+  color: black;
 }
 #content {
   grid-area: content;
   display: flex;
   flex-wrap: wrap;
-  color:  blue;
+  color:  black;
 }
 #footer {
   grid-area: footer;
-  color:  blue;
+  color:  black;
 }
 #sidenav {
   grid-area: sidenav;
-  color:  blue;
+  color:  black;
 }
 
 ul {
-  background-color:greenyellow;
-}
-
-.erro{
-  color: red;
+  background-color: blue;
 }
 
 .block {
@@ -58,6 +54,9 @@ ul {
   border-radius: 15px;
   padding: 20px;
   margin: 10px;
-  background-color: greenyellow;
+  background-image: url(https://img.assinaja.com/assets/tZ/004/img/224606_520x520.jpg);
 }
 
+.block:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
