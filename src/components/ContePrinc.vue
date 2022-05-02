@@ -3,7 +3,7 @@ export default {};
 </script>
 <template>
   <article class="block">
-    <p>This is a game brother HAHAHAHA</p>
+    <p>I'm REVENGE</p>
   </article>
 </template>
 <style></style>
