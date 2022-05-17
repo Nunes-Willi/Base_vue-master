@@ -1,5 +1,6 @@
 <script>
 import ContePrinc from "./ContePrinc.vue";
+
 export default { ContePrinc, components: { ContePrinc } };
 </script>
 <template>
